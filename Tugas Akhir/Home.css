@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+
+.text {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 45px;
+}
+
+.search {
+    width: 700px;
+    margin: 0 auto;
+}
+
+::placeholder {
+    text-align: center;
+    font-family: 'poppins';
+}
+
+.navigation li {
+   display: inline-block;
+   padding: 3px;
+   margin-top: 20px;
+   margin-right: 28px;
+   margin-left: 3px;
+   text-align: center;
+   font-family: 'poppins';
+}
+
+.navigation ul {
+    margin-left: 345px;
+}
+
+
+.terbaru {
+    padding-top: 25px;
+    padding-left: 250px; 
+}
+
+.promo {
+    padding-top: 25px;
+    padding-left: 250px; 
+}
+
+.reward {
+    padding-top: 25px;
+    padding-left: 250px; 
+}
+
+.brands {
+    padding-top: 25px;
+    padding-left: 250px;
+}
+
+p {
+    margin: 0 !important;
+}
+
+strong {
+    font-weight: bold;
+    font-family: 'poppins';
+}
+
+.side {
+    float: left;
+}
+
+.main {
+    float: right;
+}
+
+h5 {
+    font-family: 'poppins';
+}
+
+.card-text {
+    font-family: 'poppins';
+}
+
+.nav-link {
+    font-family: 'poppins';
+}
+
+/* .justify-content-md-center {
+    justify-content: center;
+} */
